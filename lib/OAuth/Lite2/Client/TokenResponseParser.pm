@@ -57,5 +57,10 @@ sub parse {
     return $token;
 }
 
+=head1 NAME
+
+OAuth::Lite2::Client::TokenResponseParser - OAuth 2.0 TokenResponseParser module for Client
+
+=cut
 
 1;
